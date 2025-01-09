@@ -1,7 +1,9 @@
 """This module provides a simple calculator implementation with basic arithmetic operations."""
 
 class Calculator:
-    """A calculator class that performs basic arithmetic operations and maintains calculation history."""
+    """A calculator class that performs basic arithmetic operations and 
+    maintains calculation history.
+    """
 
     def __init__(self, x, y):
         """Initialize calculator with two numbers.
